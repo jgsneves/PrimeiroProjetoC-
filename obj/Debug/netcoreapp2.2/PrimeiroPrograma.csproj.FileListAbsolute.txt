@@ -1,0 +1,11 @@
+C:\Users\JoaoNeves\source\repos\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\netcoreapp2.2\PrimeiroPrograma.deps.json
+C:\Users\JoaoNeves\source\repos\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\netcoreapp2.2\PrimeiroPrograma.runtimeconfig.json
+C:\Users\JoaoNeves\source\repos\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\netcoreapp2.2\PrimeiroPrograma.runtimeconfig.dev.json
+C:\Users\JoaoNeves\source\repos\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\netcoreapp2.2\PrimeiroPrograma.dll
+C:\Users\JoaoNeves\source\repos\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\netcoreapp2.2\PrimeiroPrograma.pdb
+C:\Users\JoaoNeves\source\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\netcoreapp2.2\PrimeiroPrograma.csprojAssemblyReference.cache
+C:\Users\JoaoNeves\source\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\netcoreapp2.2\PrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\JoaoNeves\source\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\netcoreapp2.2\PrimeiroPrograma.AssemblyInfoInputs.cache
+C:\Users\JoaoNeves\source\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\netcoreapp2.2\PrimeiroPrograma.AssemblyInfo.cs
+C:\Users\JoaoNeves\source\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\netcoreapp2.2\PrimeiroPrograma.dll
+C:\Users\JoaoNeves\source\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\netcoreapp2.2\PrimeiroPrograma.pdb
